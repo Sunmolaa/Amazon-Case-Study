@@ -5,6 +5,11 @@ This project analyzes Amazon product data using Excel pivot tables, calculated c
 - Average discounts and ratings by category
 - Products with highest potential revenue
 - Price vs Rating analysis
+## Key Metrics (KPI Cards)
+ - Total Products
+ - Total Reviews
+ - Average Rating
+ - Highest Potential Revenue by Category
 ## Summary Insights
 - Over 50% of products have heavy discounts (50% or More)
 - Electronics dominate the product categories.
