@@ -19,6 +19,7 @@ This project analyzes Amazon product data using Excel pivot tables, calculated c
 - Pivot Tables
 - Bar Charts
 - Basic Excel formulas
-- ## File
-[Amazon Case Study Dashboard. xlsx.xlsx](https://github.com/user-attachments/files/21007544/Amazon.Case.Study.Dashboard.xlsx.xlsx)
+- ## File 
+[Amazon Project.xlsx](https://github.com/user-attachments/files/21277911/Amazon.Project.xlsx)
+
   
